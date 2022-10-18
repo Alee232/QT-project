@@ -104,21 +104,5 @@ background: blue;
     </hint>
    </hints>
   </connection>
-  <connection>
-   <sender>pushButton_2</sender>
-   <signal>clicked()</signal>
-   <receiver>Dialog</receiver>
-   <slot>accept()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>437</x>
-     <y>366</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>392</x>
-     <y>343</y>
-    </hint>
-   </hints>
-  </connection>
  </connections>
 </ui>

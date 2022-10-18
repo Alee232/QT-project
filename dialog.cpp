@@ -16,3 +16,9 @@ Dialog::~Dialog()
     delete ui;
 }
 
+
+void Dialog::on_pushButton_2_clicked()
+{
+    ui->pushButton_2->setText("Your message was sent!");
+}
+
